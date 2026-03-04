@@ -1,0 +1,238 @@
+Honey’s Consulting Group
+Finance Policy Manual
+
+Document Title: Expense Reimbursement & Corporate Spending Policy
+Document ID: FIN-POL-001
+Owner Department: Finance
+Access Scope: General
+Version: 2026.1
+Effective Date: January 1, 2026
+Review Cycle: Annual
+Approved By: Chief Financial Officer
+
+1. Purpose & Governance Framework
+
+This policy defines the official rules for business expense reimbursement and corporate spending at Honey’s Consulting Group (“HCG”).
+
+The policy explains how employees submit business expenses, what expenses are reimbursable, and how approvals are handled.
+
+The objectives of this policy are to:
+
+• Ensure responsible stewardship of company financial resources
+• Promote transparency and accountability in expense reporting
+• Mitigate financial fraud and misuse of corporate funds
+• Align with internal audit controls and regulatory expectations
+• Maintain consistency across global business units
+
+All employees are responsible for understanding and complying with this policy.
+
+Failure to follow the policy may result in:
+
+• Reimbursement denial
+• Disciplinary action
+• Termination in severe cases
+
+This policy operates under the oversight of the Finance Department and is subject to periodic review by Internal Audit.
+
+2. Scope & Applicability
+
+This policy applies to all individuals who submit expenses through the company’s expense reimbursement system.
+
+This includes:
+
+• Full-time employees
+• Part-time employees
+• Contract personnel reimbursed through corporate systems
+• Executive leadership
+• International employees operating under the HCG reimbursement framework
+
+Local legal requirements may impose additional documentation standards, but this policy defines the minimum global standard.
+
+3. Guiding Principles of Expense Management
+
+The expense management process follows several key principles.
+
+3.1 Business Necessity Standard
+
+All expenses must be directly related to legitimate business activities.
+
+Examples include:
+
+• Client delivery work
+• Operational business travel
+• Professional development aligned with job responsibilities
+
+Expenses unrelated to business activities will not be reimbursed.
+
+3.2 Reasonableness Standard
+
+Expenses must reflect prudent judgment consistent with a professional consulting environment.
+
+Excessive or luxury spending requires documented pre-approval.
+
+3.3 Timeliness Requirement
+
+Employees must submit expenses within 45 days of the expense being incurred.
+
+If submitted after 45 days, the employee must provide:
+
+• Written justification
+• Direct manager approval
+• Secondary Finance review
+
+Repeated late submissions may result in reimbursement denial.
+
+3.4 Accuracy & Completeness
+
+Employees are responsible for ensuring expense reports include:
+
+• Accurate expense categorization
+• Clear explanation of business purpose
+• Receipts and supporting documentation
+• Correct currency conversions for international expenses
+
+3.5 Segregation of Duties
+
+Employees may not approve their own expenses.
+
+Expense approvals must follow the company’s official approval matrix described in Section 8.
+
+4. Eligible Expense Categories
+
+Subject to policy compliance, the following expense categories are generally reimbursable.
+
+4.1 Travel & Transportation
+
+• Economy-class airfare
+• Standard hotel accommodations
+• Ground transportation such as taxis, rideshare services, or trains
+• Mileage reimbursement at the approved corporate rate
+• Visa fees required for business travel
+
+4.2 Client Development & Meetings
+
+• Client meals within reasonable limits
+• Approved entertainment associated with client engagement
+• Meeting room rentals for business meetings
+
+4.3 Professional Development
+
+• Pre-approved industry certifications
+• Training programs aligned with employee role requirements
+• Professional conference attendance
+
+4.4 Business Supplies & Equipment
+
+• Minor office supplies
+• Project-related materials
+• Approved technology peripherals
+
+Major equipment purchases require separate procurement approval.
+
+5. Non-Reimbursable Expenses
+
+The following expenses are not reimbursable unless explicitly approved by executive leadership:
+
+• Personal entertainment unrelated to business
+• Alcohol not tied to approved client events
+• Traffic violations or parking fines
+• First-class or business-class airfare without CFO approval
+• Family travel expenses
+• Personal subscription services
+
+The Finance Department retains final authority in determining reimbursement eligibility.
+
+6. Corporate Card Usage
+6.1 Mandatory Use
+
+When corporate cards are issued, employees must use them for eligible business expenses.
+
+6.2 Reconciliation Requirements
+
+Corporate card statements must be reconciled monthly within the company’s expense management system.
+
+6.3 Misuse of Corporate Cards
+
+Improper use of corporate cards may result in:
+
+• Revocation of corporate card privileges
+• Financial recovery actions
+• Disciplinary measures
+
+7. Travel & Booking Controls
+7.1 Pre-Approval Requirement
+
+All business travel must receive documented manager approval before booking.
+
+7.2 Approved Booking Channels
+
+Employees must use approved corporate travel platforms unless an exception is granted.
+
+7.3 International Travel Risk Review
+
+International travel requires additional review for:
+
+• Insurance coverage
+• Compliance risk exposure
+• Data security considerations
+
+8. Approval Matrix
+
+Expense approval authority is based on the following spending thresholds:
+
+• Under $1,000 → Direct Manager approval
+• $1,000–$5,000 → Department Head approval
+• Above $5,000 → Chief Financial Officer approval
+
+Finance may escalate any expense for additional review regardless of amount.
+
+9. Audit, Monitoring & Fraud Prevention
+9.1 Audit Rights
+
+The Finance Department and Internal Audit may conduct random or targeted expense audits.
+
+9.2 Fraud Detection
+
+Intentional misrepresentation of expenses constitutes financial misconduct.
+
+9.3 Consequences
+
+Violations may result in:
+
+• Reimbursement denial
+• Written warning
+• Termination
+• Legal action where applicable
+
+10. Policy Maintenance & Review
+
+This policy is reviewed annually by Finance leadership.
+
+Material policy updates require CFO approval.
+
+Policy updates are communicated to employees and maintained in the corporate document repository.
+
+Quick Answers (AI Retrieval Section)
+
+Q: What is the deadline to submit expense reports?
+A: Employees must submit expense reports within 45 days of the expense being incurred.
+
+Q: Who approves expenses under $1,000?
+A: Expenses under $1,000 must be approved by the employee’s direct manager.
+
+Q: Who approves expenses above $5,000?
+A: Expenses above $5,000 require approval from the Chief Financial Officer.
+
+Q: Can employees approve their own expenses?
+A: No. Employees are not allowed to approve their own expenses.
+
+Q: What types of expenses are generally reimbursable?
+A: Reimbursable expenses include business travel, client meals, professional development costs, and approved business supplies.
+
+Q: Are personal entertainment expenses reimbursable?
+A: No. Personal entertainment expenses unrelated to business activities are not reimbursable.
+
+Q: Can first-class airfare be reimbursed?
+A: First-class airfare requires explicit approval from the Chief Financial Officer.
+
+End of Document

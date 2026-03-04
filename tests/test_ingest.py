@@ -1,0 +1,3 @@
+from app.services.ingest_service import ingestion_service
+
+ingestion_service.ingest_all_documents()

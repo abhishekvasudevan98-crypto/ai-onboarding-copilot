@@ -1,0 +1,236 @@
+Honey’s Consulting Group
+Confidential Compliance Operations Manual
+
+Document Title: Internal Investigation & Whistleblower Management Protocol
+Document ID: COMP-INT-006
+Owner Department: Compliance
+Access Scope: Restricted
+Version: 2026.1
+Effective Date: January 1, 2026
+Review Cycle: Annual
+Approved By: Chief Compliance Officer
+
+CONFIDENTIAL – RESTRICTED ACCESS
+
+This document contains sensitive internal investigation procedures.
+
+Access to this document is restricted to authorized Compliance personnel and designated executive leadership.
+
+Unauthorized access, distribution, or disclosure is strictly prohibited.
+
+1. Purpose & Governance Authority
+
+This protocol defines how Honey’s Consulting Group manages internal investigations, whistleblower reports, and regulatory allegations.
+
+The framework ensures investigations are conducted in a structured, impartial, and legally defensible manner.
+
+The objectives of this protocol are to:
+
+• Ensure impartial and legally defensible investigations
+• Protect whistleblower confidentiality
+• Mitigate regulatory and reputational risk
+• Maintain executive and board oversight
+• Ensure proper documentation and evidentiary control
+
+This protocol is accessible only to authorized Compliance personnel and designated executive leadership.
+
+2. Trigger Events for Investigation
+
+An internal investigation may begin when potential misconduct, regulatory violations, or ethical concerns are identified.
+
+Common trigger events include:
+
+• Whistleblower hotline report
+• Anonymous ethics submission
+• Internal audit findings
+• Executive leadership directive
+• Regulatory inquiry
+• Suspicious financial activity
+
+All trigger events must be formally recorded in the Compliance Case Management System.
+
+3. Case Intake & Logging Procedure
+
+All investigations must be formally registered before investigative activity begins.
+
+3.1 Case Registration
+
+Each investigation is assigned the following:
+
+• Unique Case ID
+• Date of initiation
+• Risk classification
+• Assigned Compliance Officer
+
+3.2 Preliminary Assessment
+
+Within 5 business days, the assigned Compliance Officer must:
+
+• Assess credibility of the allegation
+• Evaluate potential regulatory exposure
+• Identify immediate containment actions
+
+3.3 Conflict Screening
+
+Investigators must confirm they have no conflict of interest related to the case.
+
+Investigators with potential conflicts must recuse themselves.
+
+4. Evidence Preservation & Handling
+
+Evidence must be preserved in a secure and legally defensible manner.
+
+4.1 Digital Evidence
+
+Digital evidence must be:
+
+• Preserved in a secure evidence repository
+• Access restricted
+• Timestamped and logged
+
+4.2 Physical Evidence
+
+Physical documents must be:
+
+• Logged in the evidence registry
+• Stored in a secure location
+• Access controlled
+
+4.3 Chain of Custody
+
+A documented chain of custody must be maintained for all evidence collected.
+
+Failure to preserve evidence properly may compromise the legal defensibility of the investigation.
+
+5. Investigation Process Framework
+
+Investigations follow a structured multi-phase process.
+
+5.1 Planning Phase
+
+During planning investigators must:
+
+• Define the scope of the investigation
+• Identify stakeholders
+• Determine required documentation
+
+5.2 Interview Phase
+
+Interviews may be conducted with:
+
+• Reporting party
+• Subject of allegation
+• Relevant witnesses
+
+All interviews must be documented in written investigation records.
+
+5.3 Legal Consultation
+
+If legal exposure exists, the Compliance team must consult Legal Counsel.
+
+Legal counsel ensures investigations comply with regulatory and legal obligations.
+
+6. Risk Classification & Escalation
+
+Cases are classified based on risk severity.
+
+Classification levels include:
+
+Low Risk – Internal policy deviation
+Medium Risk – Material policy violation
+High Risk – Significant legal or financial exposure
+Critical Risk – Immediate executive or board escalation required
+
+High and Critical cases must be escalated within 48 hours to:
+
+• Chief Compliance Officer
+• General Counsel
+• Chief Executive Officer
+
+Critical cases may also require notification of the Board Audit Committee.
+
+7. Whistleblower Protections
+
+Honey’s Consulting Group protects individuals who report concerns.
+
+7.1 Confidentiality
+
+Whistleblower identities must remain confidential unless disclosure is legally required.
+
+7.2 Non-Retaliation
+
+Retaliation against whistleblowers is strictly prohibited.
+
+Employees who retaliate against reporting individuals may face disciplinary action.
+
+7.3 Monitoring
+
+Compliance will monitor the workplace environment to detect potential retaliation.
+
+8. Investigation Closure & Reporting
+
+Once an investigation concludes, formal reporting must occur.
+
+8.1 Findings Report
+
+Each investigation must produce a written findings report including:
+
+• Summary of allegations
+• Evidence analysis
+• Interview summaries
+• Risk classification
+• Recommended actions
+
+8.2 Disciplinary Action
+
+If misconduct is confirmed, actions may include:
+
+• Formal warning
+• Suspension
+• Termination
+• Referral to law enforcement
+
+8.3 Regulatory Disclosure
+
+Where legally required, findings may be reported to regulatory authorities.
+
+9. Record Retention & Confidential Storage
+
+Investigation records must be securely stored.
+
+Requirements include:
+
+• Minimum 10-year retention period
+• Access restricted to authorized Compliance leadership
+• Secure enterprise storage systems
+
+10. Policy Review & Governance Oversight
+
+This protocol is reviewed annually by:
+
+• Chief Compliance Officer
+• General Counsel
+
+Material policy updates require executive approval.
+
+Quick Answers (AI Retrieval Section)
+
+Q: What triggers an internal investigation?
+A: Internal investigations may be triggered by whistleblower reports, anonymous ethics submissions, internal audit findings, regulatory inquiries, or suspicious financial activity.
+
+Q: Who manages internal investigations at the company?
+A: Internal investigations are managed by the Compliance Department under the supervision of the Chief Compliance Officer.
+
+Q: How quickly must preliminary assessments occur?
+A: Preliminary investigation assessments must be completed within 5 business days.
+
+Q: What happens if a case is classified as High Risk?
+A: High risk cases must be escalated within 48 hours to the Chief Compliance Officer, General Counsel, and CEO.
+
+Q: Are whistleblowers protected from retaliation?
+A: Yes. The company strictly prohibits retaliation against individuals who report concerns in good faith.
+
+Q: How long are investigation records retained?
+A: Investigation records must be retained for a minimum of 10 years.
+
+End of Document

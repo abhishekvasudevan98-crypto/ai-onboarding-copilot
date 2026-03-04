@@ -1,0 +1,177 @@
+Employee Handbook & Workplace Guide
+
+Document Title: Employee Handbook, Workplace Policies & General Operations Guide
+Document ID: HR-HDBK-001
+Owner Department: Human Resources
+Access Scope: General
+Version: 2026.1
+Effective Date: January 1, 2026
+Review Cycle: Annual
+Approved By: Chief Human Resources Officer
+
+1. Purpose
+
+This handbook provides employees with essential information about workplace policies, operational systems, and everyday procedures at Honey’s Consulting Group (“HCG”).
+
+The objective of this handbook is to help employees quickly understand:
+
+• Company systems and tools
+• Payroll and compensation timing
+• Leave and attendance processes
+• Expense submission procedures
+• Where to find company policies
+• Who to contact for operational support
+
+This handbook supplements official company policies and governance documents.
+
+2. Payroll & Salary Payments
+
+Employees are paid once per month.
+
+Payroll is processed on the last working day of each month.
+
+Payments are processed through the Workday HRIS payroll system and deposited directly into the employee’s registered bank account.
+
+Employees may view salary statements and payroll information within the Workday system.
+
+3. Leave & Attendance Management
+
+Employee attendance and leave management are handled through the Workday HRIS system.
+
+Employees must submit leave requests through Workday.
+
+Leave requests must be approved by the employee’s direct manager before the leave is confirmed.
+
+Types of leave available may include:
+
+• Annual leave
+• Sick leave
+• Personal leave
+• Approved unpaid leave
+
+Employees should submit leave requests as early as possible to ensure operational coverage.
+
+--------------------------------------------------------------------
+3.1 How to Request Time Off
+--------------------------------------------------------------------
+
+Employees can request time off by submitting a leave request through the Workday HRIS system.
+
+Steps to request time off:
+
+1. Log into Workday.
+2. Navigate to the Leave Management section.
+3. Select "Request Leave".
+4. Choose the type of leave and the requested dates.
+5. Submit the request for manager approval.
+
+A leave request becomes approved only after the employee’s direct manager reviews and approves the request.
+
+Employees are encouraged to submit time-off requests in advance whenever possible to ensure adequate team coverage.
+
+4. Expense Submission & Reimbursement
+
+Employees must submit business expenses using the Expensify expense management system.
+
+Expensify is used for:
+
+• Expense submission
+• Reimbursement tracking
+• Manager approval workflows
+
+Employees must attach receipts and provide a business justification for all expenses.
+
+Expenses must generally be submitted within 45 days of the expense date.
+
+5. Company Systems & Tools
+
+Honey’s Consulting Group uses several official enterprise systems.
+
+Employees should only use approved corporate platforms for business activities.
+
+Primary systems include:
+
+Workday
+Used for payroll, leave management, and employee records.
+
+Expensify
+Used for submitting and tracking employee expenses.
+
+Salesforce
+Used for customer relationship management and client opportunity tracking.
+
+Jira
+Used for project management, task tracking, and risk documentation.
+
+Confluence
+Used as the official knowledge repository for company documentation and policies.
+
+6. Company Policies & Documentation
+
+All official company policies are stored in Confluence.
+
+Employees may access policies including:
+
+• Code of Conduct
+• Finance policies
+• Compliance policies
+• IT security policies
+• Operational procedures
+
+Confluence serves as the authoritative source for internal company documentation.
+
+7. IT Support & Security
+
+Employees must follow company IT security policies.
+
+Key security requirements include:
+
+• Use of multi-factor authentication (MFA)
+• Secure password management
+• Use of corporate VPN for remote access
+
+Employees must report any suspected security incidents to the IT Security team immediately.
+
+8. Reporting Concerns or Issues
+
+Employees may report concerns related to workplace conduct, compliance issues, or operational problems through:
+
+• Their direct manager
+• The Human Resources department
+• The Compliance Office
+
+Honey’s Consulting Group maintains a non-retaliation policy for employees who report concerns in good faith.
+
+9. Where to Find Help
+
+Employees seeking assistance may contact:
+
+Human Resources – employment questions, leave, payroll
+Finance – expense and reimbursement questions
+IT Support – system access and technical issues
+Compliance – ethics or regulatory concerns
+
+Quick Answers (AI Retrieval Section)
+
+Q: When are employees paid?
+A: Employees are paid on the last working day of each month through the Workday payroll system.
+
+Q: What tool tracks employee attendance?
+A: Employee attendance and leave are managed through Workday.
+
+Q: How do employees request leave?
+A: Leave requests must be submitted through the Workday HRIS system.
+
+Q: What system is used to submit expenses?
+A: Employees submit expenses through Expensify.
+
+Q: Where can employees find company policies?
+A: Company policies are stored in Confluence.
+
+Q: What systems are used at Honey’s Consulting Group?
+A: The company uses Workday, Expensify, Salesforce, Jira, and Confluence.
+
+Q: Who should employees contact for HR questions?
+A: Employees should contact the Human Resources department.
+
+End of Document

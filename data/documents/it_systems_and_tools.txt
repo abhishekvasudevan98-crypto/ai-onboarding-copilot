@@ -1,0 +1,247 @@
+Honey’s Consulting Group
+Information Technology Governance Framework
+
+Document Title: Enterprise Systems, Access Management & Acceptable Use Policy
+Document ID: IT-POL-002
+Owner Department: Information Technology
+Access Scope: General
+Version: 2026.1
+Effective Date: January 1, 2026
+Review Cycle: Annual
+Approved By: Chief Technology Officer
+
+1. Purpose & Governance Mandate
+
+This policy defines the official enterprise systems used at Honey’s Consulting Group (“HCG”) and establishes the rules for system access, data protection, and acceptable use.
+
+The document explains what systems employees must use for business activities and how access to those systems is managed.
+
+The objectives of this policy are to:
+
+• Safeguard corporate and client data
+• Ensure operational continuity and cybersecurity resilience
+• Establish consistent access control standards
+• Prevent unauthorized system usage
+• Align with industry security frameworks and regulatory expectations
+
+All employees must comply with this policy as a condition of system access.
+
+The Information Technology Department oversees all enterprise systems and may suspend system access for policy violations.
+
+2. Enterprise Systems Landscape
+
+Honey’s Consulting Group maintains several official enterprise platforms used for internal operations.
+
+Employees must use these approved systems to perform their work.
+
+2.1 Human Resources Information System (HRIS) – Workday
+
+Workday is the company’s official HR system.
+
+Employees use Workday for:
+
+• Payroll processing
+• Leave management
+• Employee records
+• Performance documentation
+
+Access to Workday is role-based and managed jointly by the HR and IT departments.
+
+2.2 Expense Management System – Expensify
+
+Expensify is the company’s official system for managing employee expenses.
+
+Employees use Expensify for:
+
+• Expense submission
+• Reimbursement tracking
+• Expense approval workflows
+
+The Expensify platform integrates with the Finance Department’s expense approval process.
+
+2.3 Customer Relationship Management (CRM) – Salesforce
+
+Salesforce is the company’s official customer relationship management system.
+
+Employees use Salesforce for:
+
+• Client opportunity tracking
+• Revenue forecasting
+• Account management documentation
+
+Access to Salesforce data is restricted based on job role and business function.
+
+2.4 Project & Risk Management – Jira
+
+Jira is the company’s official project and risk management platform.
+
+Employees use Jira for:
+
+• Task tracking
+• Risk logging
+• Escalation documentation
+• Project milestone reporting
+
+Jira serves as the official repository for operational risk documentation.
+
+2.5 Knowledge Repository – Confluence
+
+Confluence is the company’s official knowledge management platform.
+
+Employees use Confluence for:
+
+• Internal policy storage
+• Standard operating procedures
+• Department documentation
+• Version-controlled internal guidance
+
+Confluence is considered the authoritative source for internal company documentation.
+
+3. Access Control & Identity Governance
+
+System access is managed through formal access control processes.
+
+3.1 Role-Based Access Control (RBAC)
+
+Access to systems is granted based on:
+
+• Job role
+• Department
+• Business necessity
+
+Employees may not request elevated access outside their responsibilities without approval from both their department head and IT Security.
+
+3.2 Principle of Least Privilege
+
+Employees are granted only the minimum level of access required to perform their work duties.
+
+3.3 Access Reviews
+
+IT Security conducts quarterly access reviews to ensure system permissions remain appropriate.
+
+3.4 Offboarding Controls
+
+When an employee leaves the company:
+
+• All system access must be revoked within 24 hours
+• Corporate devices must be returned
+• Password credentials must be invalidated
+
+4. Security Requirements
+4.1 Multi-Factor Authentication (MFA)
+
+Multi-factor authentication is mandatory for all enterprise systems.
+
+4.2 VPN Requirement
+
+Remote system access requires use of the company’s approved corporate VPN.
+
+4.3 Password Standards
+
+Passwords must meet corporate complexity standards and may not be reused across systems.
+
+4.4 Device Security
+
+Corporate-issued devices must comply with endpoint security standards including:
+
+• Full disk encryption
+• Automatic security updates
+• Anti-malware protection
+
+5. Acceptable Use Standards
+
+Employees must use enterprise systems only for legitimate business purposes.
+
+The following actions are prohibited:
+
+• Unauthorized data extraction
+• Sharing system credentials
+• Accessing confidential data outside job scope
+• Installing unauthorized software
+• Using corporate systems for personal commercial activities
+
+The IT Department may monitor system activity to ensure compliance.
+
+6. Data Classification & Handling
+
+Honey’s Consulting Group uses four levels of data classification.
+
+6.1 Data Classification Levels
+
+• Public
+• Internal
+• Confidential
+• Restricted
+
+6.2 Storage Requirements
+
+Confidential and Restricted data must only be stored in approved enterprise systems.
+
+Storing sensitive data on personal devices is prohibited unless authorized and encrypted.
+
+6.3 Data Transmission
+
+Sensitive information must not be transmitted using unsecured communication channels.
+
+7. Incident Response & Reporting
+
+Employees must immediately report potential security incidents.
+
+Examples include:
+
+• Suspected phishing attempts
+• Unauthorized system access
+• Lost or stolen devices
+• Data breaches or accidental disclosure
+
+Reports should be submitted to:
+
+• IT Security Team
+• Direct Manager
+• Compliance Office when regulatory implications exist
+
+Failure to report incidents may result in disciplinary action.
+
+8. Compliance & Enforcement
+
+Violations of this policy may result in:
+
+• Temporary suspension of system access
+• Formal disciplinary review
+• Termination of employment
+• Legal action where applicable
+
+The IT Department may audit system usage logs to detect violations.
+
+9. Policy Maintenance
+
+This policy is reviewed annually by IT Security leadership.
+
+Material updates require approval from the Chief Technology Officer.
+
+All policy versions are maintained within the company’s Confluence documentation system.
+
+Quick Answers (AI Retrieval Section)
+
+Q: What system is used for payroll and employee records?
+A: Honey’s Consulting Group uses the Workday HRIS system to manage payroll, employee records, and leave management.
+
+Q: What system do employees use to submit expenses?
+A: Employees submit expenses through the Expensify expense management system.
+
+Q: What system is used to track client opportunities?
+A: Salesforce is the company’s customer relationship management system used for tracking client opportunities.
+
+Q: What system stores internal company policies?
+A: Confluence is the official knowledge repository where company policies and internal documentation are stored.
+
+Q: What system is used for project and risk management?
+A: Jira is used for project task tracking, risk logging, and escalation documentation.
+
+Q: Is multi-factor authentication required for company systems?
+A: Yes. Multi-factor authentication is mandatory for all enterprise systems.
+
+Q: What should employees do if they suspect a cybersecurity incident?
+A: Employees must report the incident immediately to the IT Security team, their manager, or the Compliance Office.
+
+End of Document

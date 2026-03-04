@@ -1,0 +1,230 @@
+Honey’s Consulting Group
+Confidential Compensation Governance Manual
+
+Document Title: Salary Adjustment, Compensation Review & Pay Governance Protocol
+Document ID: FIN-COMP-007
+Owner Department: Finance
+Access Scope: Restricted
+Version: 2026.1
+Effective Date: January 1, 2026
+Review Cycle: Annual
+Approved By: Chief Financial Officer
+
+CONFIDENTIAL – RESTRICTED ACCESS
+
+This document contains sensitive compensation governance procedures.
+
+Access is restricted to authorized Finance personnel and executive leadership.
+
+Unauthorized access or disclosure may result in disciplinary action.
+
+1. Purpose & Compensation Governance Principles
+
+This protocol defines how Honey’s Consulting Group manages salary adjustments, compensation reviews, and executive pay governance.
+
+The document establishes how compensation decisions are evaluated, approved, and recorded.
+
+The objectives of this protocol are to:
+
+• Ensure equitable and merit-based compensation decisions
+• Maintain internal pay equity standards
+• Align compensation with employee performance and market benchmarks
+• Protect confidentiality of employee salary information
+• Maintain fiscal discipline within approved compensation budgets
+
+All compensation adjustments must align with approved financial forecasts and departmental budget allocations.
+
+2. Annual Compensation Review Cycle
+
+Honey’s Consulting Group conducts a formal compensation review once per year.
+
+2.1 Review Timing
+
+The formal compensation review cycle occurs annually during Q4.
+
+Salary adjustments approved during the annual cycle typically take effect in the following fiscal period.
+
+2.2 Participants
+
+The following roles participate in the compensation review process:
+
+• Direct Managers
+• Department Heads
+• Finance Director
+• Chief Financial Officer (CFO)
+
+2.3 Eligibility Criteria
+
+Employees must meet the following criteria to be eligible for salary review:
+
+• At least 6 months of employment service
+• Completed performance review documentation
+• No active disciplinary review status
+
+3. Performance-Based Adjustment Framework
+
+Salary adjustments are determined using performance-based evaluation tiers.
+
+3.1 Performance Tier Classification
+
+Employees are categorized into the following performance tiers:
+
+Tier 1 – Exceptional Performance
+Tier 2 – Strong Performance
+Tier 3 – Meets Expectations
+Tier 4 – Improvement Required
+
+3.2 Standard Adjustment Guidelines
+
+Typical salary increase ranges are:
+
+Tier 1: 6–8% salary increase
+Tier 2: 4–6% salary increase
+Tier 3: 3–4% salary increase
+Tier 4: No increase or performance improvement plan
+
+Salary adjustments above 7% require CFO approval.
+
+Adjustments outside defined ranges require written approval from the CFO.
+
+4. Market Benchmarking Standards
+
+The Finance Department conducts compensation benchmarking annually.
+
+Benchmarking includes analysis of:
+
+• Industry salary surveys
+• Geographic cost-of-living data
+• Competitor compensation levels
+
+These benchmarks help ensure that company salaries remain competitive and aligned with the external market.
+
+All benchmarking methodology must be formally documented.
+
+5. Approval Workflow
+
+Salary adjustments must follow a structured approval process.
+
+5.1 Department Recommendation
+
+Managers submit recommended salary adjustments along with written justification.
+
+5.2 Finance Review
+
+The Finance Department validates:
+
+• Budget availability
+• Internal pay equity
+• Historical salary progression
+
+5.3 CFO Approval
+
+The Chief Financial Officer has final approval authority for:
+
+• Executive-level compensation
+• Salary increases exceeding 7%
+• Off-cycle salary adjustments
+
+6. Off-Cycle Adjustments
+
+Off-cycle salary adjustments may occur outside the annual compensation cycle.
+
+Common reasons include:
+
+• Employee promotion
+• Role expansion
+• Retention risk
+• Market compensation correction
+
+Off-cycle adjustments require written business justification and CFO approval.
+
+7. Confidentiality & Data Protection
+
+Salary data is classified as Restricted confidential information.
+
+The following rules apply:
+
+• Compensation discussions must remain confidential
+• Salary data must not be exported outside approved HR systems
+• Access is limited to authorized Finance and HR leadership
+
+Unauthorized disclosure of compensation data may result in disciplinary action or termination.
+
+8. Payroll System Integration
+
+All approved salary adjustments must be processed through official payroll systems.
+
+The company uses the following systems:
+
+• Workday HRIS system
+• Corporate payroll processing system
+
+Finance must verify that payroll systems reflect approved compensation changes before payroll processing.
+
+9. Audit & Compliance Oversight
+
+Internal Audit may review compensation governance processes including:
+
+• Compensation approval workflows
+• Budget adherence
+• Pay equity analysis
+
+Any irregularities must be escalated immediately to the Chief Financial Officer.
+
+10. Policy Review & Governance Maintenance
+
+This protocol must be reviewed annually by:
+
+• Finance Director
+• Chief Financial Officer
+
+--------------------------------------------------------------------
+Finance Department Systems & Tools
+--------------------------------------------------------------------
+
+The Finance Department uses several enterprise systems to manage financial operations.
+
+Primary tools used by the Finance team include:
+
+NetSuite
+Used for financial reporting, accounting records, and budget analysis.
+
+Expensify
+Used for employee expense submission and reimbursement management.
+
+Workday
+Used for payroll processing and compensation data management.
+
+Excel Forecasting Templates
+Used by finance analysts for financial modeling and budget forecasting.
+
+These systems support financial oversight, reporting accuracy, and corporate financial governance.
+
+Material policy updates require executive approval.
+
+Policy version history must be maintained in the secure corporate repository.
+
+Quick Answers (AI Retrieval Section)
+
+Q: When does the annual compensation review occur?
+A: The annual compensation review cycle takes place during Q4.
+
+Q: Who participates in compensation review decisions?
+A: Direct managers, department heads, the Finance Director, and the Chief Financial Officer participate in compensation review decisions.
+
+Q: Who must approve salary increases above 7%?
+A: Salary increases above 7% require approval from the Chief Financial Officer.
+
+Q: What performance tiers determine salary increases?
+A: Employees are classified into four performance tiers: Exceptional Performance, Strong Performance, Meets Expectations, and Improvement Required.
+
+Q: When can off-cycle salary adjustments occur?
+A: Off-cycle salary adjustments may occur due to promotions, role expansion, retention risk, or market compensation corrections.
+
+Q: What system processes salary adjustments?
+A: Approved salary adjustments are processed through the Workday HRIS system and the corporate payroll system.
+
+Q: Is salary information confidential?
+A: Yes. Salary information is classified as Restricted confidential data and may only be accessed by authorized personnel.
+
+End of Document
