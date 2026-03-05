@@ -1,13 +1,12 @@
 import chromadb
-from chromadb.config import Settings
 from app.core.embeddings import EmbeddingModel
 
 
 class VectorStore:
 
     def __init__(self):
-        self.client = chromadb.Client(
-            Settings(persist_directory="vector_store")
+        self.client = chromadb.PersistentClient(
+            path="data/vector_store"
         )
 
         self.collection = self.client.get_or_create_collection(
@@ -15,6 +14,7 @@ class VectorStore:
         )
 
     def upsert_documents(self, ids, documents, embeddings, metadatas):
+
         self.collection.upsert(
             ids=ids,
             documents=documents,
