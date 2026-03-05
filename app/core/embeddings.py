@@ -6,7 +6,8 @@ class EmbeddingModel:
     _instance = None
 
     def __init__(self):
-        self.model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+        # lighter embedding model for low-memory environments
+        self.model = SentenceTransformer("paraphrase-MiniLM-L3-v2")
 
     @classmethod
     def get_instance(cls):
