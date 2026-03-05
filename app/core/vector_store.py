@@ -10,7 +10,8 @@ class VectorStore:
         )
 
         self.collection = self.client.get_or_create_collection(
-            name="honey_ai_onboard"
+            name="honey_ai_onboard",
+            embedding_function=None
         )
 
     def upsert_documents(self, ids, documents, embeddings, metadatas):
