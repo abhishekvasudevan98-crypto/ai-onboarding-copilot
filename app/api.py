@@ -36,9 +36,6 @@ class QuestionRequest(BaseModel):
 # STARTUP EVENT
 # -----------------------------
 
-@app.on_event("startup")
-def startup_event():
-    ingestion_service.scan_and_sync_documents()
 
 
 # -----------------------------

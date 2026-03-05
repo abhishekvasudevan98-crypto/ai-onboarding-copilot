@@ -1,4 +1,9 @@
 venv/
 .env
 __pycache__/
+
+# ignore vector stores generally
 vector_store/
+
+# allow the project vector database
+!data/vector_store/
