@@ -1,10 +1,10 @@
 import chromadb
-from app.core.embeddings import EmbeddingModel
 
 
 class VectorStore:
 
     def __init__(self):
+
         self.client = chromadb.PersistentClient(
             path="data/vector_store"
         )
@@ -24,10 +24,8 @@ class VectorStore:
 
     def query(self, query_text, top_k=6):
 
-        embedding = EmbeddingModel.get_instance().embed_query(query_text)
-
         results = self.collection.query(
-            query_embeddings=[embedding],
+            query_texts=[query_text],
             n_results=top_k
         )
 
