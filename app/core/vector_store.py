@@ -25,9 +25,10 @@ class VectorStore:
 
     def query(self, query_text, top_k=6):
 
+        embedding = EmbeddingModel.get_instance().embed_query(query_text)
         results = self.collection.query(
-            query_texts=[query_text],
-            n_results=top_k
+            query_embeddings=[embedding],
+             n_results=top_k
         )
 
         return results
