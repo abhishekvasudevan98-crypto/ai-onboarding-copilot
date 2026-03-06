@@ -1,4 +1,5 @@
 import chromadb
+from app.core.embeddings import EmbeddingModel
 
 
 class VectorStore:
@@ -10,8 +11,7 @@ class VectorStore:
         )
 
         self.collection = self.client.get_or_create_collection(
-            name="honey_ai_onboard",
-            embedding_function=None
+            name="honey_ai_onboard"
         )
 
     def upsert_documents(self, ids, documents, embeddings, metadatas):
@@ -26,9 +26,10 @@ class VectorStore:
     def query(self, query_text, top_k=6):
 
         embedding = EmbeddingModel.get_instance().embed_query(query_text)
+
         results = self.collection.query(
             query_embeddings=[embedding],
-             n_results=top_k
+            n_results=top_k
         )
 
         return results
