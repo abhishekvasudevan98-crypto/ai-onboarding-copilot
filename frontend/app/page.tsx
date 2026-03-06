@@ -105,7 +105,7 @@ export default function Home() {
 
     try {
 
-      const response = await fetch("http://127.0.0.1:8000/ask", {
+      const response = await fetch("https://honeys-ai-backend-docker.onrender.com/ask", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
