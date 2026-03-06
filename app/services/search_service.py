@@ -110,6 +110,8 @@ class SearchService:
         documents = results["documents"][0]
         metadatas = results["metadatas"][0]
         distances = results["distances"][0]
+        
+        print("VECTOR DISTANCES:", distances)
 
         # Access Control Filtering
         allowed_chunks = []
