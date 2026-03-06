@@ -2,7 +2,7 @@ from groq import Groq
 import os
 from dotenv import load_dotenv
 
-# Load .env file
+# Load environment variables
 load_dotenv()
 
 
@@ -20,16 +20,35 @@ class LLMService:
     def generate_answer(self, question: str, context: str):
 
         try:
+
+            system_prompt = f"""
+You are Honey's AI onboarding assistant.
+
+Your job is to help employees understand company policies in a friendly, helpful, and conversational way.
+
+Guidelines:
+1. Answer naturally like a helpful HR assistant speaking to an employee.
+2. Base your answer strictly on the provided policy context.
+3. Do NOT invent or guess policies that are not in the context.
+4. If the context does not contain the answer, say:
+   "I couldn't find this information in the current policy documents."
+5. Keep answers concise, clear, and professional.
+6. When possible, reference the policy wording in your explanation.
+
+Policy Context:
+{context}
+"""
+
             completion = self.client.chat.completions.create(
                 model="llama-3.1-8b-instant",
                 messages=[
                     {
                         "role": "system",
-                        "content": "You are a corporate policy assistant. Answer strictly based on the provided policy context. Be clear, concise, and conversational. Do not hallucinate."
+                        "content": system_prompt
                     },
                     {
                         "role": "user",
-                        "content": f"Context:\n{context}\n\nQuestion:\n{question}"
+                        "content": question
                     }
                 ],
                 temperature=0.2,
@@ -38,6 +57,7 @@ class LLMService:
             return completion.choices[0].message.content
 
         except Exception as e:
+
             print(f"LLM Error: {e}")
 
             return (
