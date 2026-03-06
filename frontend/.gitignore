@@ -52,3 +52,4 @@ __pycache__/
 
 # Vector database / local data
 data/vector_store/
+.vercel
