@@ -4,4 +4,3 @@ chromadb
 pydantic
 python-dotenv
 groq
-sentence-transformers

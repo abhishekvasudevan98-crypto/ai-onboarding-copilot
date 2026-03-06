@@ -1,7 +1,6 @@
 import os
 import hashlib
 from app.core.vector_store import vector_store
-from app.core.embeddings import EmbeddingModel
 from app.core.config import settings
 
 
@@ -122,12 +121,10 @@ class IngestionService:
                 "access_scope": access_scope
             })
 
-        embeddings = EmbeddingModel.get_instance().embed_documents(documents)
 
         vector_store.upsert_documents(
             ids=ids,
             documents=documents,
-            embeddings=embeddings,
             metadatas=metadatas
         )
 
