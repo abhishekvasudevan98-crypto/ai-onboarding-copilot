@@ -16,7 +16,6 @@ class IngestionService:
     DOCUMENT_DEPARTMENT_MAP = {
         "finance_expense_policy.txt": ("Finance", "General"),
         "finance_salary_adjustment_protocol.txt": ("Finance", "Department"),
-        "finance_budget_review_process.txt": ("Finance", "Department"),
         "compliance_code_of_conduct.txt": ("Compliance", "General"),
         "compliance_internal_investigation_protocol.txt": ("Compliance", "Restricted"),
         "compliance_audit_operations_guide.txt": ("Compliance", "Department"),
