@@ -110,10 +110,13 @@ class SearchService:
         documents = results["documents"][0]
         metadatas = results["metadatas"][0]
         distances = results["distances"][0]
-        
+
         print("VECTOR DISTANCES:", distances)
 
+        # ---------------------------
         # Access Control Filtering
+        # ---------------------------
+
         allowed_chunks = []
 
         for doc, meta, dist in zip(documents, metadatas, distances):
@@ -137,23 +140,19 @@ class SearchService:
                 "confidence": "Rejected"
             }
 
-        # Group by Document
-        doc_groups = {}
+        # ---------------------------
+        # Improved Retrieval Logic
+        # ---------------------------
 
-        for doc, meta, dist in allowed_chunks:
-            doc_name = meta.get("document_name")
-            if doc_name not in doc_groups:
-                doc_groups[doc_name] = []
-            doc_groups[doc_name].append((doc, dist))
+        # Sort chunks by similarity (lower distance = better)
+        sorted_chunks = sorted(allowed_chunks, key=lambda x: x[2])
 
-        # Choose Best Document
-        best_doc_name = min(
-            doc_groups.keys(),
-            key=lambda name: sum(d for _, d in doc_groups[name]) / len(doc_groups[name])
-        )
+        # Take top 4 most relevant chunks
+        best_chunks = sorted_chunks[:4]
 
-        best_chunks = sorted(doc_groups[best_doc_name], key=lambda x: x[1])[:4]
-        best_distances = [dist for _, dist in best_chunks]
+        best_doc_name = best_chunks[0][1].get("document_name")
+
+        best_distances = [dist for _, _, dist in best_chunks]
 
         # Similarity Safety Check
         if min(best_distances) > self.SIMILARITY_THRESHOLD:
@@ -162,7 +161,7 @@ class SearchService:
                 "confidence": "Rejected"
             }
 
-        combined_context = "\n\n".join(chunk for chunk, _ in best_chunks)
+        combined_context = "\n\n".join(chunk for chunk, _, _ in best_chunks)
 
         memory_context = self._get_memory_context(session_id)
         final_context = memory_context + "\nPolicy Context:\n" + combined_context
