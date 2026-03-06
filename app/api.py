@@ -3,7 +3,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 from app.services.search_service import search_service
-from app.services.ingest_service import ingestion_service
 
 
 app = FastAPI()
