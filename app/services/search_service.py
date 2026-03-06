@@ -5,7 +5,7 @@ import re
 
 class SearchService:
 
-    SIMILARITY_THRESHOLD = 1.0
+    SIMILARITY_THRESHOLD = 10
 
     BLOCKED_PATTERNS = [
         "ignore previous instructions",
