@@ -32,6 +32,7 @@ class SearchService:
     # ---------------------------
 
     def _get_last_user_question(self, session_id: str):
+
         if session_id not in self.session_memory:
             return None
 
@@ -70,34 +71,17 @@ class SearchService:
             self.session_memory[session_id] = self.session_memory[session_id][-self.MAX_MEMORY_TURNS * 2:]
 
     # ---------------------------
-    # Context Compression
+    # Keyword Score (Hybrid Search)
     # ---------------------------
 
-    def _compress_context(self, context: str, question: str, max_sentences=6):
+    def _keyword_score(self, question: str, text: str):
 
-        sentences = re.split(r'(?<=[.!?]) +', context)
+        q_words = set(re.findall(r'\b\w+\b', question.lower()))
+        t_words = set(re.findall(r'\b\w+\b', text.lower()))
 
-        question_words = set(
-            re.findall(r'\b\w+\b', question.lower())
-        )
+        overlap = len(q_words.intersection(t_words))
 
-        scored = []
-
-        for sentence in sentences:
-
-            words = set(
-                re.findall(r'\b\w+\b', sentence.lower())
-            )
-
-            score = len(words.intersection(question_words))
-
-            scored.append((sentence, score))
-
-        scored = sorted(scored, key=lambda x: x[1], reverse=True)
-
-        best = [s for s, _ in scored[:max_sentences]]
-
-        return " ".join(best)
+        return overlap
 
     # ---------------------------
     # Confidence Calculation
@@ -198,8 +182,10 @@ class SearchService:
 
             if allowed:
 
+                keyword_score = self._keyword_score(question, doc)
+
                 allowed_chunks.append(
-                    (doc, meta, dist)
+                    (doc, meta, dist, keyword_score)
                 )
 
         if not allowed_chunks:
@@ -210,23 +196,21 @@ class SearchService:
             }
 
         # ---------------------------
-        # Improved Retrieval Ranking
+        # Hybrid Ranking
         # ---------------------------
 
-        sorted_chunks = sorted(
+        ranked_chunks = sorted(
             allowed_chunks,
-            key=lambda x: x[2]
+            key=lambda x: (x[2] - (0.15 * x[3]))
         )
 
-        best_chunks = sorted_chunks[:4]
+        best_chunks = ranked_chunks[:4]
 
         best_doc_name = best_chunks[0][1].get("document_name")
 
         best_distances = [
-            dist for _, _, dist in best_chunks
+            dist for _, _, dist, _ in best_chunks
         ]
-
-        # Similarity Safety Check
 
         if min(best_distances) > self.SIMILARITY_THRESHOLD:
 
@@ -236,16 +220,7 @@ class SearchService:
             }
 
         combined_context = "\n\n".join(
-            chunk for chunk, _, _ in best_chunks
-        )
-
-        # ---------------------------
-        # Context Compression
-        # ---------------------------
-
-        compressed_context = self._compress_context(
-            combined_context,
-            question
+            chunk for chunk, _, _, _ in best_chunks
         )
 
         memory_context = self._get_memory_context(session_id)
@@ -253,7 +228,7 @@ class SearchService:
         final_context = (
             memory_context
             + "\nPolicy Context:\n"
-            + compressed_context
+            + combined_context
         )
 
         # ---------------------------
@@ -267,7 +242,7 @@ class SearchService:
 
         overlap_score = self._keyword_overlap_score(
             question,
-            compressed_context
+            combined_context
         )
 
         confidence_label = self._confidence_label(
